@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><id>https://fbbg.example/</id><title>fbbg.example</title><updated>2023-10-06T19:26:20.836160+00:00</updated><link href="https://fbbg.example/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><subtitle>Follow blog, blog good!</subtitle><entry><id>https://fbbg.example/about/</id><title>about fbbg</title><updated>2023-10-06T19:26:20.836250+00:00</updated><content type="html">&lt;div id="root"&gt;
+&lt;h1 id="a-better-blog-engine-you-dare"&gt;A better blog engine, you
+dare!&lt;/h1&gt;
+&lt;pre class="mermaid"&gt;&lt;code&gt;pie title blogging
+         "title" : 90
+         "body" : 10&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id="aliquam-erat-volutpat."&gt;Aliquam erat volutpat.&lt;/h2&gt;
+&lt;p&gt;Nunc eleifend leo vitae magna. In id erat non orci commodo lobortis.
+Proin neque massa, cursus ut, gravida ut, lobortis eget, lacus. Sed
+diam. Praesent fermentum tempor tellus. Nullam tempus. Mauris ac felis
+vel velit tristique imperdiet. Donec at pede. Etiam vel neque nec dui
+dignissim bibendum. Vivamus id enim. Phasellus neque orci, porta a,
+aliquet quis, semper a, massa. Phasellus purus. Pellentesque tristique
+imperdiet tortor. Nam euismod tellus id erat.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec
+hendrerit tempor tellus. Donec pretium posuere tellus. Proin quam nisl,
+tincidunt et, mattis eget, convallis nec, purus. Cum sociis natoque
+penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla
+posuere. Donec vitae dolor. Nullam tristique diam non turpis. Cras
+placerat accumsan nulla. Nullam rutrum. Nam vestibulum accumsan
+nisl.&lt;/p&gt;
+&lt;p&gt;Nullam eu ante vel est convallis dignissim. Fusce suscipit, wisi nec
+facilisis facilisis, est dui fermentum leo, quis tempor ligula erat quis
+odio. Nunc porta vulputate tellus. Nunc rutrum turpis sed pede. Sed
+bibendum. Aliquam posuere. Nunc aliquet, augue nec adipiscing interdum,
+lacus tellus malesuada massa, quis varius mi purus non odio.
+Pellentesque condimentum, magna ut suscipit hendrerit, ipsum augue
+ornare nulla, non luctus diam neque sit amet urna. Curabitur vulputate
+vestibulum lorem. Fusce sagittis, libero non molestie mollis, magna orci
+ultrices dolor, at vulputate neque nulla lacinia eros. Sed id ligula
+quis est convallis tempor. Curabitur lacinia pulvinar nibh. Nam a
+sapien.&lt;/p&gt;
+&lt;h2 id="lorem-ipsum-dolor-sit-amet"&gt;Lorem ipsum dolor sit amet&lt;/h2&gt;
+&lt;p&gt;Consectetuer adipiscing elit. Donec hendrerit tempor tellus. Donec
+pretium posuere tellus. Proin quam nisl, tincidunt et, mattis eget,
+convallis nec, purus. Cum sociis natoque penatibus et magnis dis
+parturient montes, nascetur ridiculus mus. Nulla posuere. Donec vitae
+dolor. Nullam tristique diam non turpis. Cras placerat accumsan nulla.
+Nullam rutrum. Nam vestibulum accumsan nisl.&lt;/p&gt;
+&lt;div class="sourceCode" id="cb2"&gt;&lt;pre class="sourceCode python"&gt;&lt;code class="sourceCode python"&gt;&lt;span id="cb2-1"&gt;&lt;a href="#cb2-1" aria-hidden="true" tabindex="-1"&gt;&lt;/a&gt;&lt;span class="kw"&gt;def&lt;/span&gt; main():&lt;/span&gt;
+&lt;span id="cb2-2"&gt;&lt;a href="#cb2-2" aria-hidden="true" tabindex="-1"&gt;&lt;/a&gt;    response &lt;span class="op"&gt;=&lt;/span&gt; &lt;span class="cf"&gt;await&lt;/span&gt; goto(&lt;span class="st"&gt;'https://example.example'&lt;/span&gt;)&lt;/span&gt;
+&lt;span id="cb2-3"&gt;&lt;a href="#cb2-3" aria-hidden="true" tabindex="-1"&gt;&lt;/a&gt;    &lt;span class="cf"&gt;match&lt;/span&gt; response:&lt;/span&gt;
+&lt;span id="cb2-4"&gt;&lt;a href="#cb2-4" aria-hidden="true" tabindex="-1"&gt;&lt;/a&gt;t&lt;/span&gt;
+&lt;span id="cb2-5"&gt;&lt;a href="#cb2-5" aria-hidden="true" tabindex="-1"&gt;&lt;/a&gt;        case [&lt;span class="dv"&gt;200&lt;/span&gt;, headers, body]:&lt;/span&gt;
+&lt;span id="cb2-6"&gt;&lt;a href="#cb2-6" aria-hidden="true" tabindex="-1"&gt;&lt;/a&gt;            &lt;span class="cf"&gt;return&lt;/span&gt; &lt;span class="op"&gt;-&lt;/span&gt;&lt;span class="dv"&gt;669&lt;/span&gt;&lt;/span&gt;
+&lt;span id="cb2-7"&gt;&lt;a href="#cb2-7" aria-hidden="true" tabindex="-1"&gt;&lt;/a&gt;        &lt;span class="cf"&gt;case&lt;/span&gt; other:&lt;/span&gt;
+&lt;span id="cb2-8"&gt;&lt;a href="#cb2-8" aria-hidden="true" tabindex="-1"&gt;&lt;/a&gt;            &lt;span class="cf"&gt;return&lt;/span&gt; &lt;span class="dv"&gt;42&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Nullam eu ante vel est convallis dignissim. Fusce suscipit, wisi nec
+facilisis facilisis, est dui fermentum leo, quis tempor ligula erat quis
+odio. Nunc porta vulputate tellus. Nunc rutrum turpis sed pede. Sed
+bibendum. Aliquam posuere. Nunc aliquet, augue nec adipiscing interdum,
+lacus tellus malesuada massa, quis varius mi purus non odio.
+Pellentesque condimentum, magna ut suscipit hendrerit, ipsum augue
+ornare nulla, non luctus diam neque sit amet urna. Curabitur vulputate
+vestibulum lorem. Fusce sagittis, libero non molestie mollis, magna orci
+ultrices dolor, at vulputate neque nulla lacinia eros. Sed id ligula
+quis est convallis tempor. Curabitur lacinia pulvinar nibh. Nam a
+sapien.&lt;/p&gt;
+&lt;h2 id="pellentesque-dapibus-suscipit-ligula"&gt;Pellentesque dapibus
+suscipit ligula&lt;/h2&gt;
+&lt;p&gt;Donec posuere augue in quam. Etiam vel tortor sodales tellus
+ultricies commodo. Suspendisse potenti. Aenean in sem ac leo mollis
+blandit. Donec neque quam, dignissim in, mollis nec, sagittis eu, wisi.
+Phasellus lacus. Etiam laoreet quam sed arcu. Phasellus at dui in ligula
+mollis ultricies. Integer placerat tristique nisl. Praesent augue. Fusce
+commodo. Vestibulum convallis, lorem a tempus semper, dui dui euismod
+elit, vitae placerat urna tortor vitae lacus. Nullam libero mauris,
+consequat quis, varius et, dictum id, arcu. Mauris mollis tincidunt
+felis. Aliquam feugiat tellus ut neque. Nulla facilisis, risus a rhoncus
+fermentum, tellus tellus lacinia purus, et dictum nunc justo sit amet
+elit.&lt;/p&gt;
+&lt;p&gt;Nullam eu ante vel est convallis dignissim. Fusce suscipit, wisi nec
+facilisis facilisis, est dui fermentum leo, quis tempor ligula erat quis
+odio. Nunc porta vulputate tellus. Nunc rutrum turpis sed pede. Sed
+bibendum. Aliquam posuere. Nunc aliquet, augue nec adipiscing interdum,
+lacus tellus malesuada massa, quis varius mi purus non odio.
+Pellentesque condimentum, magna ut suscipit hendrerit, ipsum augue
+ornare nulla, non luctus diam neque sit amet urna. Curabitur vulputate
+vestibulum lorem. Fusce sagittis, libero non molestie mollis, magna orci
+ultrices dolor, at vulputate neque nulla lacinia eros. Sed id ligula
+quis est convallis tempor. Curabitur lacinia pulvinar nibh. Nam a
+sapien.&lt;/p&gt;
+&lt;p&gt;Nullam eu ante vel est convallis dignissim. Fusce suscipit, wisi nec
+facilisis facilisis, est dui fermentum leo, quis tempor ligula erat quis
+odio. Nunc porta vulputate tellus. Nunc rutrum turpis sed pede. Sed
+bibendum. Aliquam posuere. Nunc aliquet, augue nec adipiscing interdum,
+lacus tellus malesuada massa, quis varius mi purus non odio.
+Pellentesque condimentum, magna ut suscipit hendrerit, ipsum augue
+ornare nulla, non luctus diam neque sit amet urna. Curabitur vulputate
+vestibulum lorem. Fusce sagittis, libero non molestie mollis, magna orci
+ultrices dolor, at vulputate neque nulla lacinia eros. Sed id ligula
+quis est convallis tempor. Curabitur lacinia pulvinar nibh. Nam a
+sapien.&lt;/p&gt;
+&lt;center&gt;
+&lt;figure&gt;
+&lt;img src="https://unsplash.com/photos/FbRTtkM5tfA/download?ixid=M3wxMjA3fDF8MXxhbGx8Nnx8fHx8fDJ8fDE2OTY2MTcwNjN8&amp;amp;force=true&amp;amp;w=640" alt="a man grabbing some food"&gt;
+&lt;figcaption aria-hidden="true"&gt;a man grabbing some food&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/center&gt;
+        &lt;/div&gt;
+        </content><link href="https://fbbg.example/about/" rel="alternate"/><summary>A better blog engine, you dare!</summary><published>2023-10-06T00:00:00+00:00</published></entry></feed>
