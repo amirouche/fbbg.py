@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><id>https://fbbg.example/</id><title>fbbg.example</title><updated>2023-10-06T19:26:20.836160+00:00</updated><link href="https://fbbg.example/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><subtitle>Follow blog, blog good!</subtitle><entry><id>https://fbbg.example/about/</id><title>about fbbg</title><updated>2023-10-06T19:26:20.836250+00:00</updated><content type="html">&lt;div id="root"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><id>https://fbbg.example/</id><title>fbbg.example</title><updated>2023-10-08T18:19:33.407862+00:00</updated><link href="https://fbbg.example/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><subtitle>Follow blog, blog good!</subtitle><entry><id>https://fbbg.example/about/</id><title>about fbbg</title><updated>2023-10-08T18:19:33.407932+00:00</updated><content type="html">&lt;div id="root"&gt;
 &lt;h1 id="a-better-blog-engine-you-dare"&gt;A better blog engine, you
 dare!&lt;/h1&gt;
 &lt;pre class="mermaid"&gt;&lt;code&gt;pie title blogging

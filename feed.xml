@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>fbbg.example</title><link>https://fbbg.example/</link><description>Follow blog, blog good!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 06 Oct 2023 19:26:20 +0000</lastBuildDate><item><title>about fbbg</title><link>https://fbbg.example/about/</link><description>A better blog engine, you dare!</description><content:encoded>&lt;div id="root"&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>fbbg.example</title><link>https://fbbg.example/</link><description>Follow blog, blog good!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sun, 08 Oct 2023 18:19:33 +0000</lastBuildDate><item><title>about fbbg</title><link>https://fbbg.example/about/</link><description>A better blog engine, you dare!</description><content:encoded>&lt;div id="root"&gt;
 &lt;h1 id="a-better-blog-engine-you-dare"&gt;A better blog engine, you
 dare!&lt;/h1&gt;
 &lt;pre class="mermaid"&gt;&lt;code&gt;pie title blogging
